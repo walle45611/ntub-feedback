@@ -5,7 +5,7 @@
   * 使用 `conda` 安裝 `venv`
     
     ```
-    conda env create -f freeze.yml
+    conda env create -f env.yml
     ```
 
   * 前端 `http://localhost:5173/`
