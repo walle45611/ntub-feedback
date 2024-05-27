@@ -1,4 +1,4 @@
-# django-react-template
+# ntub-feedback
 
 * 此範本使用方式
   * 本專案是個範本專案可以用於 django-rest-framework 和 react 的搭配 
