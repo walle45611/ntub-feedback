@@ -19,5 +19,5 @@
     
     ```bash
         cd backend
-        python api/manage.py runserver
+        python core/manage.py runserver
     ```
